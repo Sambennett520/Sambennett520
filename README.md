@@ -2,7 +2,8 @@
 ## My portfolio
 
 ## My resume
-[Click here to view my CV](My resume link)
+[Click here to view my CV](My resume[Resume.docx](https://github.com/Sambennett520/Sambennett520/files/9983931/Resume.docx)
+ link)
 ## Testing tools and Languages
 ![Tools](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Tools](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
