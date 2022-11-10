@@ -1,7 +1,7 @@
 ![SQA Sam Bennett](https://user-images.githubusercontent.com/110694117/194906134-def3bd5f-72d9-472a-be36-9e29653a07be.png)
 ## My portfolio
-* [Mobile Test Cases & Plan](https://github.com/sam bennett/portfolio)
-* [Bugs example](https://github.com/sam bennett/portfolio/tree/main/bugs)
+* [Mobile Test Cases & Plan](https://github.com/ sam bennett/portfolio)
+* [Bugs example](https://github.com/ sam bennett/portfolio/tree/main/bugs)
 * [API Postman CRUD example ](https://github.com/sam bennett/portfolio/tree/main/api_postman)
 * [Selenium Cucumber BDD scripts example](https://github.com/sam bennett/portfolio/tree/main/automation_cucumber)
 ## My resume
