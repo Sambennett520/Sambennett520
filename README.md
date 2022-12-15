@@ -19,8 +19,8 @@
 ![Languages](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Languages](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ## Connect with me
-Phone:386-214-0869
+Phone: 386-214-0869
 
-Email:samuelbennett520@yahoo.com
+Email: samuelbennett520@yahoo.com
 ## My GitHub Stats
 ![Sambennett520's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambennett520&show_icons=true&theme=tokyonight)
